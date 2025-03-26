@@ -1,2 +1,4 @@
 # cordel
- Cordel proposto por gustavo guanabra no curso de HTML e CSS
+ Cordel proposto pelo professor Gustavo Guanabra no curso de html e css.
+
+ Link de acesso -> https://queirozga.github.io/cordel/
