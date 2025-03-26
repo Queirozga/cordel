@@ -45,13 +45,16 @@ section, .text_photo{
     line-height: 1.5em;
 }
 
+section p {
+    padding-bottom: 1.5em;
+}
 #photo{
+    box-shadow: inset 1px 1px 15px black;
     background-image: url('imagens/monkey-3978907_1280.jpg');
     background-size: cover;
-    background-position: center center;
+    background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 400px;
 }
 
 #text{
@@ -61,7 +64,8 @@ section, .text_photo{
 }
 
 .text_photo{
-    background-color: rgba(0, 0, 0, 0.459);
+    background-color: rgba(0, 0, 0, 0.514);
+    text-shadow: 1px 1px 5px black;
     color: aliceblue;
     border-radius: 5px;
     display: inline-block;
@@ -69,12 +73,13 @@ section, .text_photo{
 }
 
 #photo2{
-    background: url('imagens/books-1842261_1280.jpg') center center no-repeat fixed;
+    box-shadow: inset 1px 1px 15px black;
+    background: url('imagens/books-1842261_1280.jpg') right bottom no-repeat fixed;
     background-size: cover;
-    height: 400px;
 }
 
 footer{
+    font-family:var(--font2);
     background-color: black;
     color: aliceblue;
     text-align: center;
