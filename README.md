@@ -11,5 +11,5 @@ Cordel proposto pelo professor Gustavo Guanabra no curso de html e css.
 - CSS
   
 ## Links
-Acesso ao site -> https://queirozga.github.io/cordel/
+Acesso ao site -> https://queirozga.github.io/cordel/ <br>
 Link de clone -> https://github.com/Queirozga/projeto-horario.git
